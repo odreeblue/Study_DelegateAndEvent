@@ -1,0 +1,8 @@
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex02_DelegateChain\bin\Debug\ex02_DelegateChain.exe.config
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex02_DelegateChain\bin\Debug\ex02_DelegateChain.exe
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex02_DelegateChain\bin\Debug\ex02_DelegateChain.pdb
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex02_DelegateChain\obj\Debug\ex02_DelegateChain.csproj.AssemblyReference.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex02_DelegateChain\obj\Debug\ex02_DelegateChain.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex02_DelegateChain\obj\Debug\ex02_DelegateChain.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex02_DelegateChain\obj\Debug\ex02_DelegateChain.exe
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex02_DelegateChain\obj\Debug\ex02_DelegateChain.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "806ae37c-f782-41d0-a9aa-c3a4ed7cb2e1": {
+      "ProjectGuid": "806ae37c-f782-41d0-a9aa-c3a4ed7cb2e1",
+      "DisplayName": "ex01_Delegate",
+      "ColorIndex": 0
+    },
+    "bbd8f602-6ada-4e45-a517-2a7fbccf9d14": {
+      "ProjectGuid": "bbd8f602-6ada-4e45-a517-2a7fbccf9d14",
+      "DisplayName": "ex02_DelegateChain",
+      "ColorIndex": 1
+    },
+    "13fd36c8-86e2-4e7f-b6be-399c891bd448": {
+      "ProjectGuid": "13fd36c8-86e2-4e7f-b6be-399c891bd448",
+      "DisplayName": "ex03_Event",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

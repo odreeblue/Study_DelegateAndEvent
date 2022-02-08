@@ -1,0 +1,8 @@
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex01_Delegate\bin\Debug\ex01_Delegate.exe.config
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex01_Delegate\bin\Debug\ex01_Delegate.exe
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex01_Delegate\bin\Debug\ex01_Delegate.pdb
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex01_Delegate\obj\Debug\ex01_Delegate.csproj.AssemblyReference.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex01_Delegate\obj\Debug\ex01_Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex01_Delegate\obj\Debug\ex01_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex01_Delegate\obj\Debug\ex01_Delegate.exe
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex01_Delegate\obj\Debug\ex01_Delegate.pdb
