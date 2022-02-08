@@ -6,3 +6,11 @@ C:\Users\XINNOS\Desktop\DelegateAndEvent\ex03_Event\obj\Debug\ex03_Event.csproj.
 C:\Users\XINNOS\Desktop\DelegateAndEvent\ex03_Event\obj\Debug\ex03_Event.csproj.CoreCompileInputs.cache
 C:\Users\XINNOS\Desktop\DelegateAndEvent\ex03_Event\obj\Debug\ex03_Event.exe
 C:\Users\XINNOS\Desktop\DelegateAndEvent\ex03_Event\obj\Debug\ex03_Event.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\Delegate_EventHandler\Study_DelegateAndEvent\ex03_Event\bin\Debug\ex03_Event.exe.config
+C:\Users\XINNOS_IAS_CYKIM\Desktop\Delegate_EventHandler\Study_DelegateAndEvent\ex03_Event\bin\Debug\ex03_Event.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\Delegate_EventHandler\Study_DelegateAndEvent\ex03_Event\bin\Debug\ex03_Event.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\Delegate_EventHandler\Study_DelegateAndEvent\ex03_Event\obj\Debug\ex03_Event.csproj.AssemblyReference.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\Delegate_EventHandler\Study_DelegateAndEvent\ex03_Event\obj\Debug\ex03_Event.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\Delegate_EventHandler\Study_DelegateAndEvent\ex03_Event\obj\Debug\ex03_Event.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\Delegate_EventHandler\Study_DelegateAndEvent\ex03_Event\obj\Debug\ex03_Event.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\Delegate_EventHandler\Study_DelegateAndEvent\ex03_Event\obj\Debug\ex03_Event.pdb
