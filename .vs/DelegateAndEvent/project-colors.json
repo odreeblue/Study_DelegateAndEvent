@@ -15,7 +15,22 @@
       "ProjectGuid": "13fd36c8-86e2-4e7f-b6be-399c891bd448",
       "DisplayName": "ex03_Event",
       "ColorIndex": 2
+    },
+    "11851586-8f27-4b44-97e3-bb295162edbf": {
+      "ProjectGuid": "11851586-8f27-4b44-97e3-bb295162edbf",
+      "DisplayName": "ex04_EventTest",
+      "ColorIndex": 3
+    },
+    "f602835c-5778-45bf-a14a-3a22515900f3": {
+      "ProjectGuid": "f602835c-5778-45bf-a14a-3a22515900f3",
+      "DisplayName": "ex05_Clock",
+      "ColorIndex": 4
+    },
+    "f31e95c5-22e3-4099-ae42-1f6c605f6435": {
+      "ProjectGuid": "f31e95c5-22e3-4099-ae42-1f6c605f6435",
+      "DisplayName": "ex06_MouseClickPaintCircle",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 6
 }

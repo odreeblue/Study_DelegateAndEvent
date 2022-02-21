@@ -1,0 +1,11 @@
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex05_Clock\obj\Debug\ex05_Clock.csproj.AssemblyReference.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex05_Clock\obj\Debug\ex05_Clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex05_Clock\obj\Debug\ex05_Clock.MainForm.resources
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex05_Clock\obj\Debug\ex05_Clock.Properties.Resources.resources
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex05_Clock\obj\Debug\ex05_Clock.csproj.GenerateResource.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex05_Clock\obj\Debug\ex05_Clock.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex05_Clock\bin\Debug\ex05_Clock.exe.config
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex05_Clock\bin\Debug\ex05_Clock.exe
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex05_Clock\bin\Debug\ex05_Clock.pdb
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex05_Clock\obj\Debug\ex05_Clock.exe
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex05_Clock\obj\Debug\ex05_Clock.pdb

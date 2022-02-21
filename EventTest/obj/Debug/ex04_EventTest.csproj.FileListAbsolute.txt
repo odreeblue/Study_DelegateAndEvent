@@ -1,0 +1,11 @@
+C:\Users\XINNOS\Desktop\DelegateAndEvent\EventTest\bin\Debug\EventTest.exe.config
+C:\Users\XINNOS\Desktop\DelegateAndEvent\EventTest\bin\Debug\EventTest.exe
+C:\Users\XINNOS\Desktop\DelegateAndEvent\EventTest\bin\Debug\EventTest.pdb
+C:\Users\XINNOS\Desktop\DelegateAndEvent\EventTest\obj\Debug\ex04_EventTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\EventTest\obj\Debug\EventTest.Form1.resources
+C:\Users\XINNOS\Desktop\DelegateAndEvent\EventTest\obj\Debug\EventTest.Properties.Resources.resources
+C:\Users\XINNOS\Desktop\DelegateAndEvent\EventTest\obj\Debug\ex04_EventTest.csproj.GenerateResource.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\EventTest\obj\Debug\ex04_EventTest.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\EventTest\obj\Debug\EventTest.exe
+C:\Users\XINNOS\Desktop\DelegateAndEvent\EventTest\obj\Debug\EventTest.pdb
+C:\Users\XINNOS\Desktop\DelegateAndEvent\EventTest\obj\Debug\ex04_EventTest.csproj.AssemblyReference.cache

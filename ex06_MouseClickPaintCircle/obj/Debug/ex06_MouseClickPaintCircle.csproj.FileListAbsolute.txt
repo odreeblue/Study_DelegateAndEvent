@@ -1,0 +1,11 @@
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex06_MouseClickPaintCircle\bin\Debug\ex06_MouseClickPaintCircle.exe.config
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex06_MouseClickPaintCircle\bin\Debug\ex06_MouseClickPaintCircle.exe
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex06_MouseClickPaintCircle\bin\Debug\ex06_MouseClickPaintCircle.pdb
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex06_MouseClickPaintCircle\obj\Debug\ex06_MouseClickPaintCircle.csproj.AssemblyReference.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex06_MouseClickPaintCircle\obj\Debug\ex06_MouseClickPaintCircle.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex06_MouseClickPaintCircle\obj\Debug\ex06_MouseClickPaintCircle.Properties.Resources.resources
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex06_MouseClickPaintCircle\obj\Debug\ex06_MouseClickPaintCircle.csproj.GenerateResource.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex06_MouseClickPaintCircle\obj\Debug\ex06_MouseClickPaintCircle.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex06_MouseClickPaintCircle\obj\Debug\ex06_MouseClickPaintCircle.exe
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex06_MouseClickPaintCircle\obj\Debug\ex06_MouseClickPaintCircle.pdb
+C:\Users\XINNOS\Desktop\DelegateAndEvent\ex06_MouseClickPaintCircle\obj\Debug\ex06_MouseClickPaintCircle.Form1.resources
